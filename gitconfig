@@ -1,0 +1,12 @@
+[user]
+	name = LinuxMercedes
+	email = LinuxMercedes@gmail.com
+[core]
+	editor = vim
+[init]
+	templatedir = ~/.git_template
+
+[diff]
+	tool = vimdiff
+[difftool]
+	prompt = false
